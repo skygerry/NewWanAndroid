@@ -1,0 +1,2 @@
+rootProject.name = "NewWanAndroid"
+include ':app'
